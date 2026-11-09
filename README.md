@@ -1,7 +1,5 @@
 # Student-CI-Project
 
-Small Python project used for CMSC 426 In-Class Activity #3 (Jenkins + GitHub CI).
-
 ## Structure
 - `app.py` - application with `add_numbers(a, b)`
 - `tests/test_app.py` - unit tests
