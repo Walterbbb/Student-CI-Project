@@ -14,3 +14,4 @@
 ## CI
 A Jenkins job (`Student-CI-Project`) pulls this repo, runs the tests, and
 reports pass/fail. It is triggered by a GitHub webhook on push.
+A small change here :)
